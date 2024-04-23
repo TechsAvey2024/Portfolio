@@ -91,7 +91,7 @@ header {
     background-color: black;
 }
 .logo {
-    background: url("/assets/images/me3.png");
+    background: url("../images/me3.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
